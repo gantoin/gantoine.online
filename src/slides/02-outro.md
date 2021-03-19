@@ -6,11 +6,11 @@ Micro-services, RESTful, Monolithe, serverless
 
 __Language__
 
-Java, SQL, Kotlin, JavaScript, python, HTML, CSS, SCSS
+Java, Kotlin, SQL, JavaScript, python, HTML, CSS, SCSS
 
 __Frameworks++__
 
-Spring (Boot, Cloud, MVC, Bacth, Security), Apache Kafka
+Spring (Boot, Cloud, MVC, Batch, Security), Apache Kafka
 
 __Frameworks__
 
@@ -18,7 +18,7 @@ JHipster, Angular, ReactJS
 
 __Autres__
 
-Git, Sonar, liquibase, SCRUM, Agile, relecture de code, code maintaner, pair-programming
+Git, Sonar, liquibase, SCRUM, Agile, relecture de code, code maintainer, pair-programming
 
 ---
 
