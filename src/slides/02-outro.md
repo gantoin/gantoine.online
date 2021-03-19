@@ -1,14 +1,30 @@
-Images can be embedded from the local filesystem!
+# 👨🏻‍💻
 
-![xkcd on standards](./standards.png)
+__Architecture__
 
-(attribution: xkcd.com)
+Micro-services, RESTful, Monolithe, serverless
+
+__Language__
+
+Java, SQL, Kotlin, JavaScript, python, HTML, CSS, SCSS
+
+__Frameworks++__
+
+Spring (Boot, Cloud, MVC, Bacth, Security), Apache Kafka
+
+__Frameworks__
+
+JHipster, Angular, ReactJS
+
+__Autres__
+
+Git, Sonar, liquibase, SCRUM, Agile, relecture de code, code maintaner, pair-programming
 
 ---
 
-![Monkey](//i.imgur.com/PnbINJ6.gif)
+# Me conacter :
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
+📩 m.gauthier.antoine@gmail.com
 
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+📱 +33698095983
+

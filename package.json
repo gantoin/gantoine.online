@@ -4,6 +4,8 @@
   "version": "2.0.0",
   "author": "Fabian Schultz <desk@fabianschultz.com>",
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "bootstrap-icons": "^1.4.0",
     "gatsby": "^2.2.0",
     "gatsby-plugin-layout": "^1.0.1",
     "gatsby-plugin-offline": "^2.0.5",
@@ -17,6 +19,7 @@
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-helmet": "^5.2.0",
+    "react-icons": "^4.2.0",
     "react-swipeable": "^4.3.0",
     "react-transition-group": "^2.4.0"
   },

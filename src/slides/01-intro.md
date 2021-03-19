@@ -1,25 +1,44 @@
-# Gatsby Deck
+![](./profile.png)
 
-Create presentations using Gatsby & React.
+# Antoine Gauthier
 
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+Développeur Back-end Java
 
 ---
 
-# 🤫
+# 👨🏻‍🎓
+
+> Licence pro. en systèmes informatiques et logiciels (SIL)
+>
+> IUT de Nantes
+>
+> 2016 – 2017
+
+> **
+
+> BTS Services informatiques aux organisations
+>
+> Lycée La Colinière, Nantes
+>
+> 2014 – 2016
 
 ---
 
-## Slides are written in Markdown!
+# 💼
 
-Here's the source of the first slide:
+> Développeur Back-end : _DOUBLETRADE_
+>
+> ###### juil. 2019 – Aujourd’hui
 
-    # Gatsby Deck
+> Développeur Full Stack : _WEMOOV_
+>
+> ###### avr. 2019 – juin 2019
 
-    Create presentations using Gatsby & React.
+> Développeur web : _Ministère de la Justice_
+>
+> ###### janv. 2018 – août 2018
+
+> Développeur : _TRSb_
+>
+> ###### mars 2017 – juil. 2017
+
