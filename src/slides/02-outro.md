@@ -23,7 +23,7 @@ Git, Sonar, liquibase, SCRUM, Agile, relecture de code, code maintaner, pair-pro
 ---
 
 ## 📄 [Télécharger mon CV pdf](https://github.com/gantoin/my-resume/raw/master/pdf/cv.pdf)
-# Me conacter :
+# Me contacter :
 
 📩 m.gauthier.antoine@gmail.com
 
