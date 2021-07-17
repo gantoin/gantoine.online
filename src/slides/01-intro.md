@@ -1,4 +1,4 @@
-![](./profile.png)
+![](./profile.jpeg)
 
 # Antoine Gauthier
 
