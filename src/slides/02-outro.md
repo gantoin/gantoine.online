@@ -27,5 +27,3 @@ Git, Sonar, liquibase, SCRUM, Agile, relecture de code, code maintainer, pair-pr
 
 📩 gantoin@protonmail.com
 
-📱 +33698095983
-
